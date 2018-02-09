@@ -1,0 +1,12 @@
+Bowl Master
+unity3d.com/get-unity/download/archive
+
+topo menu:
+1ª coisa -> scene
+2º nome do jogo
+3º para o que o jogo vai ser criado
+
+visualizar o pad -> view pad -> solution
+
+
+

@@ -1,0 +1,4 @@
+commands: 
+cd\ -> folder up
+nomoe disco -> vai para o disco direto
+dir -> nome arquivos que tem no folder

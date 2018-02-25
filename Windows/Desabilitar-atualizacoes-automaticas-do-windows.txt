@@ -1,0 +1,4 @@
+executa esse command: gpedit.msc
+
+Configuracao do computador -> Modelos Administrativos -> Compoonentes do windows -> Windows update -> Configurar atualizacoes automaticas -> 
+desativar atualizacoes automaticas

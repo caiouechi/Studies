@@ -1,0 +1,14 @@
+http://www.wikigain.com/fix-macos-sierra-screen-resolution-virtualbox/
+
+No topico ensina no virtual box 5.11.
+O 5.12 voce executa outro comando: EfiGraphicsResolution 1920x1080
+
+MACOS
+
+commands: 
+cd\ -> folder up
+nomoe disco -> vai para o disco direto
+dir -> nome arquivos que tem no folder
+
+VBoxManage setextradata "MACOS" VBoxInternal2/EfiGraphicsResolution 1920x1080
+HxV e.g. 1920x1080

@@ -1,0 +1,4 @@
+1) TARGETSDKVERSION sempre vai pegar a versao do ultimo SDK.
+
+2) O firebase ta com incompatibilidade com a api 27.
+e no final mudar pra api 26.0.1

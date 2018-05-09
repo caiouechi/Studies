@@ -1,0 +1,38 @@
+SEGREDO -> http://www.jsonschema2pojo.org/
+<uses-permission android:name="android.permission.INTERNET"/>
+
+
+Retrofit
+
+http://www.jsonschema2pojo.org/
+
+
+ We'd love to learn about your passions and initiatives beyond school requirements in your cover letter. You can address it to Reilly Derkitt.
+
+Please attach a cover letter addressed to Reilly Derkitt
+
+Retrofit
+
+1) Como ler uma api no Android
+
+2) 
+
+Convert to a JSON
+Gson: com.squareup.retrofit:converter-gson
+
+graddle: compile 'com.squareup.retrofit2:retrofit:2.1.0'
+compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+
+How to get a json file
+http://www.vogella.com/tutorials/Retrofit/article.html#retrofit-authentication
+
+<uses-permission android:name="android.permission.INTERNET" />
+
+Response{protocol=http/1.1, code=200, message=OK, url=https://git.eclipse.org/r/changes/?q=status%3Aopen}
+
+https://shopicruit.myshopify.com/admin/orders.json?page=1&access_token=c32313df0d0ef512ca64d5b336a0d7c6
+
+
+
+java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 12 path $.orders
+

@@ -1,0 +1,26 @@
+.field-typing {
+    font-size: 20px;
+    height: 130px;
+    border: 3px solid black;
+}
+
+.text {
+    font-size: 20px;
+    text-align: left;
+}
+
+.field-disable {
+    background-color: lightgray;
+}
+
+.icons {
+    vertical-align: middle;
+}
+
+.margin-green {
+    border: 3px solid green;
+}
+
+.margin-red {
+    border: 3px solid red;
+}

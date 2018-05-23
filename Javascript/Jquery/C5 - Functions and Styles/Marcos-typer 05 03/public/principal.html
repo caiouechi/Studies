@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Marcos Typer</title>
+
+    <link rel="stylesheet" href="css/libs/materialize.min.css">
+    <link rel="stylesheet" href="css/libs/google-fonts.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <div class="container">
+
+  <h1>Marcos Typer</h1>
+  <p class="text center">Lorem ipsum dolor sit amet.</p>
+
+  <ul class="informations center">
+      <i class="small material-icons icons">description</i>
+      <li><span id="length-text" 30></span> words</li>
+
+      <i class="small material-icons icons">query_builder</i>
+      <li><span id ="time-typing">10</span> seconds</li>
+  </ul>
+
+  <textarea class="field-typing" rows="8" cols ="40"></textarea>
+
+  <div class="buttons">
+    <a id="button-restart" class="btn-floating btn-large waves-effect waves-light red">
+      <i class="material-icons">restore</i>
+    </a>
+  </div>
+
+  <ul class="center">
+    <li><span id="count-caracters">0</span> caracters</li>
+    <li><span id="count-words">0</span> words</li>
+  </ul>
+</div>
+
+
+  <script src="js/jquery.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+</html>

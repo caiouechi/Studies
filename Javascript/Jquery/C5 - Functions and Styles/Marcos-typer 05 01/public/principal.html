@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Marcos Typer</title>
+    <!-- Adding a css framework named materialize, similar to bootstrap
+         + my local css file  -->
+    <link rel="stylesheet" href="css/libs/materialize.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- Adding all body in a container -->
+  <!-- Adding all classes of materialize to change the style -->
+  <div class="container">
+
+  <h1>Marcos Typer</h1>
+  <p class="text center">Lorem ipsum dolor sit amet.</p>
+
+  <ul class="informations center">
+      <li><span id="length-text" 30></span> words</li>
+      <li><span id ="time-typing">3</span> seconds</li>
+  </ul>
+
+  <textarea class="field-typing" rows="8" cols ="40"></textarea>
+
+  <button id="button-restart"> Restart Game</button>
+
+  <ul class="center">
+    <li><span id="count-caracters">0</span> caracters</li>
+    <li><span id="count-words">0</span> words</li>
+  </ul>
+</div>
+
+
+  <script src="js/jquery.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+</html>

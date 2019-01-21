@@ -1,0 +1,16 @@
+1) In the app specifications, it doesn't mention to store the saved list on the client side. However, I thought 
+it would be a great experience for the user if he goes back to the application and sees his previous favourite list.
+
+2) I realise some objects from the rest API are coming with no id, so I always verify by name and id
+
+3) Extra treatment for no records found.
+
+4) Treatment for keywords in lowercase or uppercase.
+
+5) Advanced Unit tests -> scenario1 -> find some results, favourite some products, search again and check if the products come with green star
+
+6) Advanced Unit tests -> scenario2 -> favourite the product, check if it appears in the favourite list. Close the browser, and check if the favourite list remains.
+
+7) Advanced Unit tests -> scenario3 -> Search the product, favourite it, and then unfavorite from the favourite list, check if the product in the search results will update automatically
+
+8) hosted on http://caiouechi.com/shopify

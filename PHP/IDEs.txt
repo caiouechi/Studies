@@ -1,0 +1,2 @@
+Atom - code in php
+xampp - mysql + php

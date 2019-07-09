@@ -1,0 +1,15 @@
+$ git push --set-upstream origin RandomValueBug
+$ git push
+$ git log
+$ git commit --amend
+$ git status
+$ git log
+$ git cherry-pick 0184796f
+$ git checkout -b RandomValueBug
+$ git rebase upstream/future/14.4.x
+$ git fetch upstream
+$ git checkout --track origin/future/14.4.x
+$ git remote -v
+wq
+origin
+forked

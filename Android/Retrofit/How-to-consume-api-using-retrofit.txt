@@ -1,0 +1,6 @@
+Take the json: https://jsonlint.com/
+
+Transform the json into pojo: http://www.jsonschema2pojo.org/
+with the annotation style "Gson"
+
+BSE_URL -> needs to have "/" at the end

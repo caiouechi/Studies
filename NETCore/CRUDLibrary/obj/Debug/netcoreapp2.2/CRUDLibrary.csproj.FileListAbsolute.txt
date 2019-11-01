@@ -1,0 +1,9 @@
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDLibrary\bin\Debug\netcoreapp2.2\CRUDLibrary.deps.json
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDLibrary\bin\Debug\netcoreapp2.2\CRUDLibrary.dll
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDLibrary\bin\Debug\netcoreapp2.2\CRUDLibrary.pdb
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDLibrary\obj\Debug\netcoreapp2.2\CRUDLibrary.csprojAssemblyReference.cache
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDLibrary\obj\Debug\netcoreapp2.2\CRUDLibrary.csproj.CoreCompileInputs.cache
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDLibrary\obj\Debug\netcoreapp2.2\CRUDLibrary.AssemblyInfoInputs.cache
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDLibrary\obj\Debug\netcoreapp2.2\CRUDLibrary.AssemblyInfo.cs
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDLibrary\obj\Debug\netcoreapp2.2\CRUDLibrary.dll
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDLibrary\obj\Debug\netcoreapp2.2\CRUDLibrary.pdb

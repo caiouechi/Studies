@@ -1,0 +1,11 @@
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\bin\Debug\netcoreapp2.2\CRUDProject.deps.json
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\bin\Debug\netcoreapp2.2\CRUDProject.runtimeconfig.json
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\bin\Debug\netcoreapp2.2\CRUDProject.runtimeconfig.dev.json
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\bin\Debug\netcoreapp2.2\CRUDProject.dll
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\bin\Debug\netcoreapp2.2\CRUDProject.pdb
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\obj\Debug\netcoreapp2.2\CRUDProject.csproj.CoreCompileInputs.cache
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\obj\Debug\netcoreapp2.2\CRUDProject.AssemblyInfoInputs.cache
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\obj\Debug\netcoreapp2.2\CRUDProject.AssemblyInfo.cs
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\obj\Debug\netcoreapp2.2\CRUDProject.dll
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\obj\Debug\netcoreapp2.2\CRUDProject.pdb
+D:\JAPAPITO\GitJAPAPITO\NETCore\CRUDProject\CRUDProject\obj\Debug\netcoreapp2.2\CRUDProject.csprojAssemblyReference.cache
